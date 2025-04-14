@@ -100,7 +100,7 @@ nav a {
 
 .brand {
   font-size: 2.5rem;
-  color: darkred;
+  color: #8b0000;
 }
 
 main {
@@ -124,7 +124,7 @@ aside ul li {
   padding: 0.4em 0.7em;
   font-weight: 600;
   font-size: 1.2rem;
-  background-color: darkred;
+  background-color: #8b0000;
   color: white;
   border-radius: 5px;
 }
@@ -145,7 +145,7 @@ h1 {
   padding: 1rem;
   font-style: italic;
   font-weight: 600;
-  background-color: rgb(228, 228, 228);
+  background-color: #e4e4e4;
 }
 
 footer {
